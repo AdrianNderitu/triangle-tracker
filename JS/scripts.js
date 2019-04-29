@@ -1,6 +1,7 @@
 function isTriangle() {
   var firstInput=document.getElementsById("firt-input").value;
   var secondInput=document.getElementById("second-input").value;
+  var thirdInput=document.getElementById("third-input").value;
 
 
 
