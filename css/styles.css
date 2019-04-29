@@ -6,6 +6,7 @@ h1 {
   text-decoration: underline;
   font-style: italic;
 }
-<p> {
+p {
   font-style: italic;
+  text-align: center;
 }
